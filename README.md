@@ -6,7 +6,7 @@ Hi! I'm Ashraful Islam, a Computer Science graduate from North South University,
 
 Skills:  HTML / CSS/C/C++/Python
 
-- 🌱 I’m currently learning Machine Learning, Data Science, Data Anlyses 
+- 🌱 I’m currently learning Machine Learning, Data Science, Data Analysis 
 - 👯 I’m looking to collaborate on Github 
 
 
